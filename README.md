@@ -4,7 +4,7 @@
 
 <ul>
     <li>Operadores Aritmeticos</li>
-    <li>Operadores Logicos/li>
+    <li>Operadores Logicos</li>
     <li>Operadores Relacionais</li>
     <li>Argumentos</li>
     <li>Logica de programação</li>
@@ -54,44 +54,33 @@
          <li>o salário líquido.</li>
          <li>calcule os descontos e o salário líquido, conforme a tabela
       abaixo:</li>
+```
+ + Salário Bruto : R$ - IR (11%) : R$ - INSS
+(8%) : R$ - Sindicato ( 5%) : R$ = Salário
+Liquido : R$
+```
+        Obs.: Salário Bruto - Descontos = Salário Líquido.
       </ul>
-    <li>Faça um Programa que peça dois números e imprima a soma.</li>
-    <li>Faça um Programa que peça dois números e imprima a soma.</li>
-    <li>Faça um Programa que peça dois números e imprima a soma.</li>
-    <li>Faça um Programa que peça dois números e imprima a soma.</li>
-    <li>Faça um Programa que peça dois números e imprima a soma.</li>
-    <li>Faça um Programa que peça dois números e imprima a soma.</li>
-    <li>Faça um Programa que peça dois números e imprima a soma.</li>
-    <li>Faça um Programa que peça dois números e imprima a soma.</li>
-    <li>Faça um Programa que peça dois números e imprima a soma.</li>
-    <li>Faça um Programa que peça dois números e imprima a soma.</li>
-    <li>Faça um Programa que peça dois números e imprima a soma.</li>
-</ol>
-
-      + Salário Bruto : R$ - IR (11%) : R$ - INSS
-      (8%) : R$ - Sindicato ( 5%) : R$ = Salário
-      Liquido : R$<br><br>
-      Obs.: Salário Bruto - Descontos = Salário Líquido.
-      16. Faça um programa para uma loja de tintas. O programa deverá pedir o
+    <li>Faça um programa para uma loja de tintas. O programa deverá pedir o
       tamanho em metros quadrados da área a ser pintada. Considere que a
       cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a
       tinta é vendida em latas de 18 litros, que custam R$ 80,00. Informe ao
       usuário a quantidades de latas de tinta a serem compradas e o preço
-      total.
-      17. Faça um Programa para uma loja de tintas. O programa deverá pedir o
+      total.</li>
+    <li>Faça um Programa para uma loja de tintas. O programa deverá pedir o
       tamanho em metros quadrados da área a ser pintada. Considere que a
       cobertura da tinta é de 1 litro para cada 6 metros quadrados e que a
       tinta é vendida em latas de 18 litros, que custam R$ 80,00 ou em
-      galões de 3,6 litros, que custam R$ 25,00.
-      o Informe ao usuário as quantidades de tinta a serem compradas
-      e os respectivos preços em 3 situações:
-      o comprar apenas latas de 18 litros;
-      o comprar apenas galões de 3,6 litros;
-      o misturar latas e galões, de forma que o preço seja o
+      galões de 3,6 litros, que custam R$ 25,00. Informe ao usuário as quantidades de tinta a serem compradas e os respectivos preços em 3 situações:</li>
+      <ul>
+         <li>comprar apenas latas de 18 litros;</li>
+         <li>comprar apenas galões de 3,6 litros;.</li>
+         <li>misturar latas e galões, de forma que o preço seja o
       menor. Acrescente 10% de folga e sempre arredonde os
-      valores para cima, isto é, considere latas cheias.
-      18.Faça um programa que peça o tamanho de um arquivo para download
+      valores para cima, isto é, considere latas cheias.</li>
+      </ul>
+    <li>Faça um programa que peça o tamanho de um arquivo para download
       (em MB) e a velocidade de um link de Internet (em Mbps), calcule e
       informe o tempo aproximado de download do arquivo usando este link
-      (em minutos).
-
+      (em minutos).</li>
+</ol>
