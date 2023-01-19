@@ -5,6 +5,8 @@
 - Operadores Logicos
 - Operadores Relacionais
 - Classe Math
+- Metodos
+- if / else if / else
 - Argumentos
 - Logica de programação
 
@@ -36,7 +38,7 @@
 > * a soma do triplo do primeiro com o terceiro.
 > * o terceiro elevado ao cubo.
 
-12.  Tendo como dados de entrada a altura de uma pessoa, construa um lgoritmo que calcule seu peso ideal, usando a seguinte fórmula:
+12.  Tendo como dados de entrada a altura de uma pessoa, construa um logoritmo que calcule seu peso ideal, usando a seguinte fórmula:
 > (72.7*altura) - 58 
 
 13.  Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
