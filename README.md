@@ -5,6 +5,7 @@
 - Operadores Logicos
 - Operadores Relacionais
 - Classe Math
+- Metodos
 - if / else if / else
 - Argumentos
 - Logica de programação
