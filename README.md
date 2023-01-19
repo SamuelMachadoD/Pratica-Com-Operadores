@@ -4,6 +4,7 @@
 - Operadores Aritmeticos
 - Operadores Logicos
 - Operadores Relacionais
+- Classe Math
 - Argumentos
 - Logica de programação
 
