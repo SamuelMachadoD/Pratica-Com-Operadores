@@ -98,13 +98,10 @@ public class Questao17 {
 			System.out.println("Equivalente a " + baldes + " baldes e " + galoes + " galoes de tinta!");
 			System.out.println("O valor total a ser pago sera de R$" + precoTotal);
 			break;
-			default:
+			
+		default:
 				System.out.println("A opcao digitada e invalida!");
-		
+				break;
 		}
-		
-		
-
 	}
-
 }
