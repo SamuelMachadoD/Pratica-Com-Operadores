@@ -78,7 +78,7 @@ Liquido : R$
       cobertura da tinta é de 1 litro para cada 6 metros quadrados e que a
       tinta é vendida em latas de 18 litros, que custam R$ 80,00 ou em
       galões de 3,6 litros, que custam R$ 25,00. 
-      Informe ao usuário as quantidades de tinta a serem compradas e os respectivos preços em 3 situações:]
+      Informe ao usuário as quantidades de tinta a serem compradas e os respectivos preços em 3 situações:
 > * Comprar apenas latas de 18 litros;
 > * Comprar apenas galões de 3,6 litros;
 > * Misturar latas e galões, de forma que o preço seja o menor. Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias;
