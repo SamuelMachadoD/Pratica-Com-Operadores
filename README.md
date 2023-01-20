@@ -7,6 +7,7 @@
 - Classe Math
 - Metodos
 - if / else if / else
+- Switchs
 - Argumentos
 - Logica de programação
 
